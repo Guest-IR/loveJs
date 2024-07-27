@@ -6,3 +6,8 @@
     flex-direction: column;
     color:red;
 }
+
+body{
+    display:flex;
+    justify-content:center;
+}
