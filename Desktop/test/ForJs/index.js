@@ -14,3 +14,5 @@ const course=(users,courses)=>{
 }
 
 const color=['red','yellow','orange']
+
+let =prompt('Enter the name','')
