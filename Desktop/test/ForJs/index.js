@@ -12,3 +12,5 @@ let name='1'
 const course=(users,courses)=>{
     return true 
 }
+
+const color=['red','yellow','orange']
